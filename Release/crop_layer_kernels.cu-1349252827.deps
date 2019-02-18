@@ -201,6 +201,7 @@ C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_stdio_config.h
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\assert.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include\cuda_runtime.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include\curand.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include\cublas_v2.h
@@ -216,6 +217,7 @@ d:\projects\darknet\src\cuda.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include\cuda_runtime.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include\curand.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include\cublas_v2.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include\cuda_runtime_api.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include\cudnn.h
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
 d:\projects\darknet\src\tree.h
