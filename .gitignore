@@ -1,0 +1,6 @@
+backup*/
+data/ssd/**/*.jpg
+data/ssd/**/*.xml
+data/ssd/**/*.txt
+yolov3.weights
+darknet53.conv.74
